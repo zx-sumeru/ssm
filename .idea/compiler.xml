@@ -10,14 +10,8 @@
         <module name="ch3" />
         <module name="ch4" />
         <module name="ch5" />
+        <module name="ch8" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="ch2" target="1.8" />
-      <module name="ch3" target="1.8" />
-      <module name="ch4" target="1.8" />
-      <module name="ch5" target="1.8" />
-      <module name="ssm" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
