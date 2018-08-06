@@ -11,9 +11,6 @@
 
     <artifactId>ch9</artifactId>
     <packaging>pom</packaging>
-    <modules>
-        <module>ch10</module>
-    </modules>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->

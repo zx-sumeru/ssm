@@ -8,6 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ch10" />
         <module name="ch11" />
+        <module name="ch12" />
+        <module name="ch13" />
+        <module name="ch14" />
+        <module name="ch15" />
+        <module name="ch16" />
         <module name="ch2" />
         <module name="ch3" />
         <module name="ch4" />
